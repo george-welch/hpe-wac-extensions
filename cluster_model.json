@@ -7,7 +7,7 @@
     { "model_name": "ProLiant DL385 Gen10", "obsolete": false },
     { "model_name": "ProLiant XL420 Gen10", "obsolete": false },
     { "model_name": "Synergy 480 Gen10", "obsolete": false },
-    { "model_name": "ProLiant ML350 Gen10", "obsolete": false },
+    { "model_name": "ProLiant ML350 Gen10", "obsolete": true },
     { "model_name": "ProLiant e910", "obsolete": false }
   ]
 }
